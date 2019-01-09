@@ -1,0 +1,2 @@
+# AMA
+Aid Management Application
